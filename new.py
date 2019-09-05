@@ -1,0 +1,1 @@
+new = print("the dry lake"[4:7])
